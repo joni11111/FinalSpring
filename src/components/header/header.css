@@ -1,0 +1,8 @@
+.header-menu{
+    display: inline-flex;
+    align-items: center;
+}
+
+.ant-dropdown-menu{
+   padding: 0 10px !important;
+}
